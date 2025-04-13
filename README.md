@@ -9,10 +9,6 @@
 
 - 🤝 I’m looking for contributors on [P-Stream-Native](https://github.com/FifthWit/pstream-native)
 
-- 💬 Ask me about **react, movies, recommendations**
-
-- 📫 How to reach me **fifthwitbusiness@gmail.com**
-
 - ⚡ Fun fact **I work on a lot of unfinished projects**
 
 <h3 align="left">Connect with me:</h3>
