@@ -1,3 +1,7 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A01I0NP5)
-
-<h3>If you want to support please do</h3>
+**<pre align="center">
+ _____ ___ _____ _____ _   ___        _____ _____
+|  ___|_ _|  ___|_   _| | | \ \      / |_ _|_   _|
+| |_   | || |_    | | | |_| |\ \ /\ / / | |  | |
+|  _|  | ||  _|   | | |  _  | \ V  V /  | |  | |
+|_|   |___|_|     |_| |_| |_|  \_/\_/  |___| |_|
+</pre>**
